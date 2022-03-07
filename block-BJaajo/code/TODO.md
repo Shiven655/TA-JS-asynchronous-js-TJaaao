@@ -8,7 +8,9 @@ setTimeout(() => console.log('Second'), 0);
 console.log('Third');
 ```
 
-2.
+//first
+//third
+//second 2.
 
 ```js
 console.log('First');
